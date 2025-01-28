@@ -1,0 +1,1 @@
+Mistral 7B struggles to generate parallel tool calls correctly.
