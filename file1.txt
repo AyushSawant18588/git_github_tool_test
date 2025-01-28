@@ -1,0 +1,1 @@
+Automatic Branch Creation: When creating/updating files or pushing changes, branches are automatically created if they don't exist
